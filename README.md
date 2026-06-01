@@ -159,5 +159,4 @@ To reproduce the experiment, users need to prepare their own API token from Kagg
 
 ## 9. AI Assistance Disclosure
 
-Generative AI tools such as ChatGPT and Claude were used to assist with code implementation, debugging, and report drafting.
-The project design, experiment execution, result interpretation, and final decisions were conducted by the author.
+Generative AI tools such as ChatGPT and Claude were used as supporting tools for code implementation, debugging, report drafting, GitHub repository organization, and README refinement. The project topic selection, experiment execution, result analysis, and final decisions were conducted by the author.
