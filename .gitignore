@@ -216,3 +216,31 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Kaggle API key
+kaggle.json
+
+# Kaggle dataset files
+train.csv
+test.csv
+test_labels.csv
+sample_submission.csv
+*.zip
+
+# Local data folders
+data/
+dataset/
+jigsaw-toxic-comment-classification-challenge/
+
+# Model outputs and checkpoints
+models/
+outputs/
+checkpoints/
+runs/
+wandb/
+
+# Hugging Face / PyTorch model files
+*.pt
+*.pth
+*.bin
+*.safetensors
